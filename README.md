@@ -1,4 +1,4 @@
-crayolya.js
+crayola.js
 ==========
 
 Responsive, bootstrappable analog presentation framework.
