@@ -12,3 +12,6 @@ Purchase one package of Crayola Crayons: http://www.staples.com/Crayola-Crayons-
 - Paste scanned images into Keynote
 - ???
 - Profit!
+
+
+See RobotsConf presentation: https://www.dropbox.com/s/wmnhzojparxs16v/RobotsConf%20Presentation.pdf
